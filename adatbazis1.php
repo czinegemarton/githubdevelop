@@ -6,7 +6,7 @@ $password = '';
 $dbname = 'school';
 
 
-
+//whoaoaa
 
 
 
